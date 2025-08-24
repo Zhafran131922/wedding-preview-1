@@ -34,7 +34,7 @@ export default function NotFound() {
         </div>
       </div>
 
-      {/* Animated flowers */}
+
       <div className="absolute top-20 left-10 opacity-40 animate-float-slow">
         <Image
           src="/assets/flower.png"
