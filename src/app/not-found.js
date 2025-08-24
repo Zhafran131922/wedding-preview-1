@@ -117,17 +117,7 @@ export default function NotFound() {
           </button>
         </motion.div>
 
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ duration: 0.7, delay: 0.8 }}
-          className="mt-12 text-beige-dark text-sm"
-        >
-          <p className={`${cormorant.className} italic`}>
-            "Cinta tidak selalu menemukan jalan yang lurus, 
-            tetapi selalu menemukan jalan pulang."
-          </p>
-        </motion.div>
+     
       </div>
 
       {/* Custom styles */}
